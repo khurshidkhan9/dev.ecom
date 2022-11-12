@@ -34,4 +34,9 @@ class HomeController extends Controller
     {
         return view('adminHome');
     }
+    
+    public function vendorHome()
+    {
+        return view('vendorHome');
+    }
 }

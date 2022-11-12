@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in a home dashboard!') }}
+                    {{ __('You are logged in a customer dashboard!') }}
                 </div>
             </div>
         </div>
